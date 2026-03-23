@@ -11,8 +11,8 @@ user1 = {
 }
 
 user2 = {
-    "name": "Petya",
-    "age": 20,
+    "name": "Sunnat",
+    "age": 24,
 }
 
 users = {
